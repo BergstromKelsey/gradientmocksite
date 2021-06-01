@@ -1,0 +1,11 @@
+
+body{
+    
+    background-image: url("/Users/kelseybergstrom/Desktop/Gradient/elite.png");
+    height: 100vh;
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Cormorant', serif;
+   
+}
