@@ -1,0 +1,40 @@
+
+body {
+    background-image: url("Minneapolis-Skyline.jpg");
+    height: 100vh;
+   background-position: center;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Tajawal', sans-serif;
+    color:black;
+   
+}
+
+.main{
+   
+    background:rgba(255,255,255,0.9); 
+    position: center;   
+    margin-left:30px;
+    margin-right:60px;
+    padding:20px;
+    width:70%;
+    font-size:16px;
+    font-weight:bold;
+  
+    
+    
+}
+
+.btn{
+background-color:black;
+color:white;
+border-radius: 0 !important;
+margin-top:10px;
+}
+
+.btn:hover{
+    color:#800000;
+    text-emphasis: none;
+    text-decoration: none;
+}
