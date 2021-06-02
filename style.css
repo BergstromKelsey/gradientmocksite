@@ -38,3 +38,18 @@ margin-top:10px;
     text-emphasis: none;
     text-decoration: none;
 }
+
+.navbar{
+    background:rgba(255,255,255,0.6);
+    
+    
+    }
+
+.nav-link {
+    color:black;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.nav-link:hover{
+    color:#800000;
+}
